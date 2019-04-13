@@ -8,16 +8,11 @@ The API is built with Express.js using MongoDB.
 ## Getting Started
 
 1. Fork and clone this repository
-2. Checkout the development branch
-3. Create a new branch for your work
-4. Replace `gyftbuzz-api` in `package.json` and `package-lock.json` with your
-   projects name.
-5. Replace the `"homepage"` field in `package.json` with your (public) Github
-   account name and repository name.
-6. Install dependencies with `npm install`.
-7. Ensure that you have `nodemon` installed by running `npm install -g nodemon`.
-8. Ensure the API is functioning properly by running `npm run server`.
-9. COMMIT AND PUSH CODE OFTEN
+2. Create a new branch off of `development` for your work
+3. Install dependencies with `npm install`.
+4. Ensure that you have `nodemon` installed by running `npm install -g nodemon`.
+5. Ensure the API is functioning properly by running `npm run server`.
+6. COMMIT AND PUSH CODE OFTEN
 
 ## Tasks
 
