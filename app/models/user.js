@@ -16,7 +16,8 @@ const userSchema = new mongoose.Schema({
     index: true
   },
   reviewId: {
-    type: String
+    type: String,
+    ref: 'ReviewPost'
   },
   bio: {
     type: String

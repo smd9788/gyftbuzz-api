@@ -22,7 +22,6 @@ const reviewPostSchema = new mongoose.Schema({
   affiliateUrl: [{
     url: String
   }],
-  hidden: Boolean,
   meta: {
     votes: Number,
     favs: Number
